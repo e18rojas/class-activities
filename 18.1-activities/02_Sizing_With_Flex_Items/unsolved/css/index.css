@@ -24,6 +24,7 @@ It is highly recommended to try out these commands in chromes web inspector to s
 - justify-content documentation - https://www.w3schools.com/cssref/css3_pr_justify-content.asp
 */
 .alignItems {
+  align-items: flex-start;
   /*
   - under this comment type out the css property justify-content.
   - Try out the following properties of align-items
@@ -31,7 +32,7 @@ It is highly recommended to try out these commands in chromes web inspector to s
   - flex-end
   - flex-start
   */
-
+justify-content: ;
 }
 .justifyContent {
 /*
